@@ -2,10 +2,10 @@ Theoretica is a group of physicists, mathematicians and programmers dedicated to
 We are committed to promoting the democratization of knowledge, providing open source software libraries and resources.
 
 ## Projects
-- [**Theoretica Math**](https://chaotic-society.github.com/theoretica)
+- [**Theoretica Math**](https://github.com/chaotic-society/theoretica)
   > A modular and header-only library in C++ for scientific computing, with numerical methods of wide interest.
 
-- [**Chebyshev Test**](http://chaotic-society.github.com/chebyshev)
+- [**Chebyshev Test**](http://github.com/chaotic-society/chebyshev)
   > A unit testing and numerical validation framework for scientific software.
 
 ## Our Team
